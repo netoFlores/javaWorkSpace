@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:c="http://xmlns.jcp.org/jsp/jstl/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h:form>
+            <p:growl autoUpdate="true" showDetail="true" showSummary="true" id="growl" />
+            
+            <p:outputLabel value="Nombre" for="nombre" />
+            <p:inputText value="#{usuarioCtll.usuario.nombre}" id="nombre" />
+            <br /><br />
+            <p:outputLabel value="Apellido" for="apellido" />
+            <p:inputText value="#{usuarioCtll.usuario.apellido}" id="apellido" />
+            <br /><br />
+            <p:outputLabel value="Correo" for="email" />
+            <p:inputText value="#{usuarioCtll.usuario.email}" id="email" />
+            <br /><br />
+            <p:outputLabel value="Clave" for="clave" />
+            <p:inputText value="#{usuarioCtll.usuario.clave}" id="clave" />
+            <br /><br />
+            <p:outputLabel value="Clave2" for="clave2" />
+            <p:inputText value="#{usuarioCtll.clave2}" id="clave2" />
+            <br /><br />
+            <p:commandButton value="Registrar" actionListener="#{usuarioCtll.agregar()}" />
+        </h:form>
+    </h:body>
+</html>
+

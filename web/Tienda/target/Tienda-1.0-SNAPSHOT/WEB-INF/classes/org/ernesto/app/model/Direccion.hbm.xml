@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="org.ernesto.app.model.Direccion" table="direccion" catalog="tienda">
+        <id name="id" type="java.lang.Integer">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="calle" type="string">
+            <column name="calle" length="100" not-null="true" />
+        </property>
+        
+        <property name="numeroCasa" type="java.lang.Integer">
+            <column name="numeroCasa" length="10" />
+        </property>
+        
+        <property name="poblacion" type="string">
+            <column name="poblacion" length="50" not-null="true" />
+        </property>
+        
+        <property name="estado" type="string">
+            <column name="estado" length="50" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

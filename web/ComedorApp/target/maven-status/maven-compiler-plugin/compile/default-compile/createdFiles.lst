@@ -1,0 +1,8 @@
+org/ernesto/app/comedorapp/modelo/Ventas.class
+org/ernesto/app/comedorapp/dao/CategoriasDAO.class
+org/ernesto/app/comedorapp/modelo/Platillos.class
+org/ernesto/app/comedorapp/dao/Conectar.class
+org/ernesto/app/comedorapp/modelo/Clientes.class
+org/ernesto/app/comedorapp/modelo/DetalleVentas.class
+org/ernesto/app/comedorapp/modelo/Categorias.class
+org/ernesto/app/comedorapp/controller/CategoriasCntl.class

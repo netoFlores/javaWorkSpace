@@ -1,0 +1,13 @@
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/Usuario.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/Equipos.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/utilidad/Utils.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/DetallePartido.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/Jugadores.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/dao/FacadeDao.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/dao/impl/TipoUserDao.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/TipoUser.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/beans/Login.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/dao/impl/UsuarioDao.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/beans/TipoUsuarioBeans.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/utilidad/Connect.java
+/home/neto/NetBeansProjects/web/Baloncesto/src/main/java/org/ernesto/app/baloncesto/models/Partido.java

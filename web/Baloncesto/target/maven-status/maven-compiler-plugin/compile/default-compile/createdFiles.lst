@@ -1,0 +1,13 @@
+org/ernesto/app/baloncesto/beans/TipoUsuarioBeans.class
+org/ernesto/app/baloncesto/dao/impl/TipoUserDao.class
+org/ernesto/app/baloncesto/utilidad/Utils.class
+org/ernesto/app/baloncesto/models/TipoUser.class
+org/ernesto/app/baloncesto/models/DetallePartido.class
+org/ernesto/app/baloncesto/models/Usuario.class
+org/ernesto/app/baloncesto/models/Partido.class
+org/ernesto/app/baloncesto/utilidad/Connect.class
+org/ernesto/app/baloncesto/dao/impl/UsuarioDao.class
+org/ernesto/app/baloncesto/models/Equipos.class
+org/ernesto/app/baloncesto/beans/Login.class
+org/ernesto/app/baloncesto/dao/FacadeDao.class
+org/ernesto/app/baloncesto/models/Jugadores.class
